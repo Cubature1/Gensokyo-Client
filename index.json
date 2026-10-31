@@ -14,7 +14,7 @@
     },
     {
       "path": "content/mods/amendments.json",
-      "sha1": "3ec0682b3382a56d085bd17812cc5c15a14a0e49"
+      "sha1": "67f334ae70a9790ad7beea5d2946db5b6a3a5d5e"
     },
     {
       "path": "content/mods/appleskin.json",
@@ -142,7 +142,7 @@
     },
     {
       "path": "content/mods/creativecore.json",
-      "sha1": "67588465b0424562fec39ac8f66f65343630cd61"
+      "sha1": "90db0704721fa42aaa405bd5db653f8ea4fecaf2"
     },
     {
       "path": "content/mods/cubes-without-borders.json",
@@ -358,11 +358,11 @@
     },
     {
       "path": "content/mods/sophisticated-backpacks.json",
-      "sha1": "400c39a5cc109adf4456f1c5a25ba3030409ee1b"
+      "sha1": "e0344b5044bc4a8ca572546780b7605cd51456e1"
     },
     {
       "path": "content/mods/sophisticated-core.json",
-      "sha1": "3148bf54d06568d2947b18140ce2e06560617b02"
+      "sha1": "8b4de015ab4cba94970b0ea1779289ec5b3cea11"
     },
     {
       "path": "content/mods/sound-physics-remastered.json",

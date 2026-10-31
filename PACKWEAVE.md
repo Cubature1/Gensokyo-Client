@@ -13,7 +13,7 @@
 - [[Let's Do] Hearth & Timber](https://modrinth.com/project/lets-do-hearth-timber) `1.0.5`
 - [Alex's Mobs (Unofficial Port)](https://modrinth.com/project/alexs-mobs-1.21.1) `1.22.17`
 - [AmbientSounds](https://modrinth.com/project/ambientsounds) `6.3.11`
-- [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.4`
+- [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.5`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
 - [Artifacts](https://modrinth.com/project/artifacts) `13.2.5`
@@ -46,7 +46,7 @@
 - [Create: Power Grid](https://modrinth.com/project/power-grid) `0.6.2`
 - [Create: Sound of Steam](https://modrinth.com/project/create-sound-of-steam) `0.9.2.1-1.21.1`
 - [Create: Tweaked Controllers](https://modrinth.com/project/create-tweaked-controllers) `1.21.1-1.2.7`
-- [CreativeCore](https://modrinth.com/project/creativecore) `2.13.51`
+- [CreativeCore](https://modrinth.com/project/creativecore) `2.13.52`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `5.0.0+1.21.0.neoforge`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.3.3-1.21.1`
@@ -92,9 +92,9 @@
 - [Sawmill](https://modrinth.com/project/universal-sawmill) `1.21-1.8.1`
 - [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.17+1.21.1`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
-- [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.26.17.2232`
+- [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.26.19.2243`
 - [Sophisticated Backpacks Create Integration](https://modrinth.com/project/sophisticated-backpacks-create-integration) `1.21.1-0.2.3.194`
-- [Sophisticated Core](https://modrinth.com/project/sophisticated-core) `1.21.1-1.5.19.2434`
+- [Sophisticated Core](https://modrinth.com/project/sophisticated-core) `1.21.1-1.5.23.2446`
 - [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.2`
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.2.1+neoforge-mc1.21.1`
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
