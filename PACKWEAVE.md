@@ -1,6 +1,6 @@
 # Gensokyo Client
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 83 mods
+**Minecraft 1.21.1 · neoforge 21.1.265**, 101 mods (1 dependency)
 
 ## Contents
 
@@ -31,7 +31,21 @@
 - [Crash Assistant](https://modrinth.com/project/crash-assistant) `1.11.12`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
+- [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
+- [Create Deep Seas [BETA]](https://modrinth.com/project/create-deep-seas) `3.4.5`
+- [Create Propulsion: Simulated](https://modrinth.com/project/create-propulsion-simulated) `1.1.5`
+- [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.4`
+- [Create: Bells & Whistles](https://modrinth.com/project/bellsandwhistles) `v0.4.7-1.21.1`
 - [Create: Bits 'n' Bobs](https://modrinth.com/project/create-bits-n-bobs) `2.3.5`
+- [Create: Coasters Simulated](https://modrinth.com/project/create-coasters-simulated) `0.1.5`
+- [Create: Copper & Zinc](https://modrinth.com/project/create-copper-zinc) `2.0.0`
+- [Create: Copycats+](https://modrinth.com/project/copycats) `3.0.9+mc.1.21.1-neoforge`
+- [Create: Design n' Decor](https://modrinth.com/project/create-design-n-decor) `2.2b`
+- [Create: Framed](https://modrinth.com/project/create-framed) `1.8.2+1.21.1`
+- [Create: Interiors](https://modrinth.com/project/interiors) `0.6.1`
+- [Create: Power Grid](https://modrinth.com/project/power-grid) `0.6.2`
+- [Create: Sound of Steam](https://modrinth.com/project/create-sound-of-steam) `0.9.2.1-1.21.1`
+- [Create: Tweaked Controllers](https://modrinth.com/project/create-tweaked-controllers) `1.21.1-1.2.7`
 - [CreativeCore](https://modrinth.com/project/creativecore) `2.13.51`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `5.0.0+1.21.0.neoforge`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
@@ -68,17 +82,21 @@
 - [Oh The Trees You'll Grow](https://modrinth.com/project/oh-the-trees-youll-grow) `1.21.1-5.3.5-NeoForge`
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.2+1.21.1-neoforge`
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`
+- [Presence Footsteps x Sable (Aeronautics Compat)](https://modrinth.com/project/presence-footsteps-x-sable) `1.0`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
 - [Reliable Name Tags](https://modrinth.com/project/reliable-name-tags) `2.1.0+1.21.1-neoforge`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
 - [RightClickHarvest](https://modrinth.com/project/rightclickharvest) `4.6.1+1.21.1`
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
+- [Sable: Floaters](https://modrinth.com/project/sable-floaters) `1.0.1`
 - [Sawmill](https://modrinth.com/project/universal-sawmill) `1.21-1.8.1`
 - [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.17+1.21.1`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.26.17.2232`
+- [Sophisticated Backpacks Create Integration](https://modrinth.com/project/sophisticated-backpacks-create-integration) `1.21.1-0.2.3.194`
 - [Sophisticated Core](https://modrinth.com/project/sophisticated-core) `1.21.1-1.5.19.2434`
 - [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.2`
+- [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.2.1+neoforge-mc1.21.1`
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.2`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-neoforge-21.1`

@@ -8,5 +8,14 @@
 # config/somemod/**
 # config/somemod.toml#client.fov
 # !config/somemod.toml#client.debug
-options.txt
 servers.dat
+config/
+logs/
+resourcepacks/
+screenshots/
+saves/
+shaderpacks/
+Distant_Horizons_server_data/
+xaero/
+emi.json
+options.txt

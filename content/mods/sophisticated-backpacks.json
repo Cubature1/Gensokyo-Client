@@ -17,7 +17,9 @@
       "fileSize": 1256228
     }
   },
-  "dependents": [],
+  "dependents": [
+    "s85zLEDe"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }
