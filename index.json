@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "content/mods/3dskinlayers.json",
-      "sha1": "b729203f312453e5fed431ee42c96bf98b403bbc"
+      "sha1": "945d928ff3545705ec1a732c0635472117c002f0"
     },
     {
       "path": "content/mods/alexs-mobs-1-21-1.json",
@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/ambientsounds.json",
-      "sha1": "1e8809b472268a953e4f186749fd2cef50596ff5"
+      "sha1": "525db7266992cc5eb3c7fae4dd39bd2f18a225b9"
     },
     {
       "path": "content/mods/amendments.json",
@@ -66,7 +66,7 @@
     },
     {
       "path": "content/mods/continuity.json",
-      "sha1": "01ab4e35afef9569a5f003c9c89efe3903b73586"
+      "sha1": "cbc2dabbdbbec7d009c8fa71ad3e8f59ce3ac220"
     },
     {
       "path": "content/mods/cool-rain-reforged.json",
@@ -78,7 +78,7 @@
     },
     {
       "path": "content/mods/crash-assistant.json",
-      "sha1": "9842127cb235912ab0480ea3101c81023c3f8427"
+      "sha1": "17fb326d78adb5315cca44b67ed5fca4e3c55e2c"
     },
     {
       "path": "content/mods/create-aeronautics.json",
@@ -98,7 +98,7 @@
     },
     {
       "path": "content/mods/cubes-without-borders.json",
-      "sha1": "741887be4957f14b50ed970d33334842bf415bb5"
+      "sha1": "644c0b3baf5a696b7a40fa002b7a874b6b404ab7"
     },
     {
       "path": "content/mods/curios.json",
@@ -118,7 +118,7 @@
     },
     {
       "path": "content/mods/dynamic-fps.json",
-      "sha1": "fcead81ab4fed5f76040cf591201b3374e644e0d"
+      "sha1": "0cb4b3b3268f643b02809d189f288d75386f3c2f"
     },
     {
       "path": "content/mods/emi.json",
@@ -126,19 +126,19 @@
     },
     {
       "path": "content/mods/entity-model-features.json",
-      "sha1": "9cdc5096cec95016914ec8246968edc249110de6"
+      "sha1": "1fbf5421e9767cc7d0bef036c70a8b98003bd0fd"
     },
     {
       "path": "content/mods/entityculling.json",
-      "sha1": "c9a7340e6f78b54f92ddc1062999e6486db7b0db"
+      "sha1": "2a95e205015292c7735186ca9d1888a3e3bda083"
     },
     {
       "path": "content/mods/entitytexturefeatures.json",
-      "sha1": "d238eba98297e5cd5ad557e0f67e82cf17f475ed"
+      "sha1": "6955e2a6b9866b12dc3bec5693bf0d165f127999"
     },
     {
       "path": "content/mods/euphoria-patches.json",
-      "sha1": "c94c1253dad751e7147da22584576a51f66f126a"
+      "sha1": "373246436ac387bb3c842e1776f802dd9a17a51c"
     },
     {
       "path": "content/mods/fallingtree.json",
@@ -162,11 +162,11 @@
     },
     {
       "path": "content/mods/immediatelyfast.json",
-      "sha1": "8ea44c8c26d81a40ea6f1394d5874f84a975b4ab"
+      "sha1": "75fd9033066564b102e8076c9b7b347c0d1ee7ad"
     },
     {
       "path": "content/mods/iris.json",
-      "sha1": "4d5d556352c66851d0d1d583ebdc1f982f98bda5"
+      "sha1": "5eccc45bf3e2acd46b3d69f91eae94eedf832c50"
     },
     {
       "path": "content/mods/jade.json",
@@ -186,7 +186,7 @@
     },
     {
       "path": "content/mods/lambdynamiclights.json",
-      "sha1": "3be79b2ff986da63f4d4754586f0e1dadd862f7d"
+      "sha1": "350a3554759efce3470f04b42bff5138be2c3341"
     },
     {
       "path": "content/mods/lets-do-bakery-farmcharm-compat.json",
@@ -226,11 +226,11 @@
     },
     {
       "path": "content/mods/moreculling.json",
-      "sha1": "395a045a2bbd0b4b3fb4b78e16c54fe528d80202"
+      "sha1": "89358d047e6ab3cc4d3cefffea2b9191096e68a8"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
-      "sha1": "402f87e061e4196df01977b6f1c600e4f78ba8ed"
+      "sha1": "9f6e2f2f1f2d235a51fb654250430398c8283a4f"
     },
     {
       "path": "content/mods/mru.json",
@@ -238,7 +238,7 @@
     },
     {
       "path": "content/mods/not-enough-animations.json",
-      "sha1": "7e56358dda63c608425a9cbf40fcdd9fa7c5cb53"
+      "sha1": "1367fa8b4839c6d2f8e4abf2951e995dc3e333d3"
     },
     {
       "path": "content/mods/oh-the-biomes-weve-gone.json",
@@ -250,15 +250,15 @@
     },
     {
       "path": "content/mods/particle-rain.json",
-      "sha1": "b18dcada216e42d1d6161fec345dafe4590f05d8"
+      "sha1": "dd37639fa1267d04becc8543f916077a587f6bcb"
     },
     {
       "path": "content/mods/pf-neoforge.json",
-      "sha1": "0171c2be6815812bb9fd5e879648ae1a35a68add"
+      "sha1": "899d348ac5041f949cd4934c31cc858caeea0c6f"
     },
     {
       "path": "content/mods/reeses-sodium-options.json",
-      "sha1": "80abd44dc0a4dcbc768273535f1ae7e3b80ab27a"
+      "sha1": "8f05e305fc7272223d0f8c5cd955f4bc099bb215"
     },
     {
       "path": "content/mods/reliable-name-tags.json",
@@ -278,7 +278,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "672b5a8c0aca08c4f31f59ade68007a2051d64c7"
+      "sha1": "6dddd9073b86d2e7460057805ee1d7dbc2c629dc"
     },
     {
       "path": "content/mods/sophisticated-backpacks.json",
@@ -294,7 +294,7 @@
     },
     {
       "path": "content/mods/splattermod.json",
-      "sha1": "242288a361b77cf4f2821b3ef60cc71da6e9c706"
+      "sha1": "a2835a5eb59ff537e99f9fbc955dd5fbfc78c6d8"
     },
     {
       "path": "content/mods/strut-your-stuff.json",
@@ -335,6 +335,10 @@
     {
       "path": "overrides/icon.png",
       "sha1": "9081fa8a0492c43c8e4da112e53af49c12ae7143"
+    },
+    {
+      "path": "readme.md",
+      "sha1": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc"
     }
   ]
 }
