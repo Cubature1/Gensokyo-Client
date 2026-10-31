@@ -1,0 +1,340 @@
+{
+  "files": [
+    {
+      "path": "content/mods/3dskinlayers.json",
+      "sha1": "b729203f312453e5fed431ee42c96bf98b403bbc"
+    },
+    {
+      "path": "content/mods/alexs-mobs-1-21-1.json",
+      "sha1": "7ba4ae7510525c21d326d36b52e56f00ee987916"
+    },
+    {
+      "path": "content/mods/ambientsounds.json",
+      "sha1": "1e8809b472268a953e4f186749fd2cef50596ff5"
+    },
+    {
+      "path": "content/mods/amendments.json",
+      "sha1": "3ec0682b3382a56d085bd17812cc5c15a14a0e49"
+    },
+    {
+      "path": "content/mods/appleskin.json",
+      "sha1": "0d7464a310020b7a0ce306927a2f66e63abf2d6b"
+    },
+    {
+      "path": "content/mods/architectury-api.json",
+      "sha1": "6950a26e0292208a2d89d0d586463bb3c646ae86"
+    },
+    {
+      "path": "content/mods/artifacts.json",
+      "sha1": "4614fc00a9f996158646e252bd483b704dd6f294"
+    },
+    {
+      "path": "content/mods/azimuth-api.json",
+      "sha1": "6ecc7aab3be445fe04d5122a42d70b6998d97cd4"
+    },
+    {
+      "path": "content/mods/backport-copper-age.json",
+      "sha1": "20c6b3da5553a767fb08a51146e21efd1b75b3b4"
+    },
+    {
+      "path": "content/mods/c2me-neoforge.json",
+      "sha1": "1ba00aec2a4c3968b64b76d55df5c3ce63898779"
+    },
+    {
+      "path": "content/mods/chunksmith.json",
+      "sha1": "95d7299dbbf3fbf980812a69ccdd8cd50929a051"
+    },
+    {
+      "path": "content/mods/citadel-1-21-1-port.json",
+      "sha1": "4d250a247ad5984593ecc6876559bdd96f403167"
+    },
+    {
+      "path": "content/mods/cloth-config.json",
+      "sha1": "76eb74c0591198ddda67500cd595e5ac627aaa88"
+    },
+    {
+      "path": "content/mods/colorlight.json",
+      "sha1": "785d0c7cf97b2346231e8c19c6f3ec92fef8f84f"
+    },
+    {
+      "path": "content/mods/comforts.json",
+      "sha1": "b40f672cf049366b36dd27dff262d17b12d5faba"
+    },
+    {
+      "path": "content/mods/connector.json",
+      "sha1": "cf0fb0c62eebd35604afce486f84cf040572062f"
+    },
+    {
+      "path": "content/mods/continuity.json",
+      "sha1": "01ab4e35afef9569a5f003c9c89efe3903b73586"
+    },
+    {
+      "path": "content/mods/cool-rain-reforged.json",
+      "sha1": "3d5cc36ae4e9e7f292fcb6127a756d8097b3fffb"
+    },
+    {
+      "path": "content/mods/corgilib.json",
+      "sha1": "1e9709fa1de8fa9615778889724723c1b4314095"
+    },
+    {
+      "path": "content/mods/crash-assistant.json",
+      "sha1": "9842127cb235912ab0480ea3101c81023c3f8427"
+    },
+    {
+      "path": "content/mods/create-aeronautics.json",
+      "sha1": "53fc8466c5a8d18756b024c756104353bb17e508"
+    },
+    {
+      "path": "content/mods/create-bits-n-bobs.json",
+      "sha1": "657709b10275fa332c45cefcbb2605bea2244de7"
+    },
+    {
+      "path": "content/mods/create.json",
+      "sha1": "6c86bc1ba54526f62fef9e084251bad125746566"
+    },
+    {
+      "path": "content/mods/creativecore.json",
+      "sha1": "67588465b0424562fec39ac8f66f65343630cd61"
+    },
+    {
+      "path": "content/mods/cubes-without-borders.json",
+      "sha1": "741887be4957f14b50ed970d33334842bf415bb5"
+    },
+    {
+      "path": "content/mods/curios.json",
+      "sha1": "ca882e0e1dfb052eeca5d07997ae578ea5f47eb4"
+    },
+    {
+      "path": "content/mods/distant-horizons-seedgen.json",
+      "sha1": "348ff18470219c72f0b156bed9391a3e41723f43"
+    },
+    {
+      "path": "content/mods/distanthorizons.json",
+      "sha1": "90c79d376f34b04a991e13c3d99747481236c2c7"
+    },
+    {
+      "path": "content/mods/do-a-barrel-roll.json",
+      "sha1": "bd4ccafbea91fb7904b1711973a25bd52e9ec778"
+    },
+    {
+      "path": "content/mods/dynamic-fps.json",
+      "sha1": "fcead81ab4fed5f76040cf591201b3374e644e0d"
+    },
+    {
+      "path": "content/mods/emi.json",
+      "sha1": "40c99b71c2a4ff9b545a99bccb0f9e796fa7bbd2"
+    },
+    {
+      "path": "content/mods/entity-model-features.json",
+      "sha1": "9cdc5096cec95016914ec8246968edc249110de6"
+    },
+    {
+      "path": "content/mods/entityculling.json",
+      "sha1": "c9a7340e6f78b54f92ddc1062999e6486db7b0db"
+    },
+    {
+      "path": "content/mods/entitytexturefeatures.json",
+      "sha1": "d238eba98297e5cd5ad557e0f67e82cf17f475ed"
+    },
+    {
+      "path": "content/mods/euphoria-patches.json",
+      "sha1": "c94c1253dad751e7147da22584576a51f66f126a"
+    },
+    {
+      "path": "content/mods/fallingtree.json",
+      "sha1": "c5b7224ac3d8d54e9778413a8141920dd42c2c72"
+    },
+    {
+      "path": "content/mods/farmers-delight.json",
+      "sha1": "4c599037e77bc51a5392104238bc655ad423c000"
+    },
+    {
+      "path": "content/mods/ferrite-core.json",
+      "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
+    },
+    {
+      "path": "content/mods/forgified-fabric-api.json",
+      "sha1": "dd1ab9d3f13d5f2fc60599d342efb98868e9c8a8"
+    },
+    {
+      "path": "content/mods/geckolib.json",
+      "sha1": "ba6638fced3fa0edc297bedb321824ee8bef3f23"
+    },
+    {
+      "path": "content/mods/immediatelyfast.json",
+      "sha1": "8ea44c8c26d81a40ea6f1394d5874f84a975b4ab"
+    },
+    {
+      "path": "content/mods/iris.json",
+      "sha1": "4d5d556352c66851d0d1d583ebdc1f982f98bda5"
+    },
+    {
+      "path": "content/mods/jade.json",
+      "sha1": "71a09e1c1e6a3436a1fdb40bfe446d06fc35a0cc"
+    },
+    {
+      "path": "content/mods/jamlib.json",
+      "sha1": "de2bda220bee5652918b7fa74b3a3166d01e71db"
+    },
+    {
+      "path": "content/mods/jei.json",
+      "sha1": "714e031a35d971fe4d32b3d088967633ca764de7"
+    },
+    {
+      "path": "content/mods/krypton-foxified.json",
+      "sha1": "eb512bf576b5946ddc2782519414f5c849922f12"
+    },
+    {
+      "path": "content/mods/lambdynamiclights.json",
+      "sha1": "3be79b2ff986da63f4d4754586f0e1dadd862f7d"
+    },
+    {
+      "path": "content/mods/lets-do-bakery-farmcharm-compat.json",
+      "sha1": "216130d07d20f433f593973e2b2d75eec7c1cba0"
+    },
+    {
+      "path": "content/mods/lets-do-brewery-farmcharm-compat.json",
+      "sha1": "efa83203d5e6ec71fe83acb3955ca0f5c1e648fb"
+    },
+    {
+      "path": "content/mods/lets-do-farm-charm.json",
+      "sha1": "d497c80e24d5b333b1f52adc16be27c233f2889a"
+    },
+    {
+      "path": "content/mods/lets-do-hearth-timber.json",
+      "sha1": "4d5a12477549c0414b777006bda121b106f58ca3"
+    },
+    {
+      "path": "content/mods/lithostitched.json",
+      "sha1": "58c114667d8dfe01ea10f7b09eccf907d6a58e52"
+    },
+    {
+      "path": "content/mods/lootr.json",
+      "sha1": "ff2f6fc2795c6a0443de463b782c05f258570c51"
+    },
+    {
+      "path": "content/mods/mezzconfig.json",
+      "sha1": "019504f26c3da93fe1a518726c4d61b0be4e1d88"
+    },
+    {
+      "path": "content/mods/modernfix.json",
+      "sha1": "a61e381a6c5652cb785d05f84612a09e2ab91e23"
+    },
+    {
+      "path": "content/mods/moonlight.json",
+      "sha1": "c1a2f533d17d728956ce80fd2d32a4a6741879bf"
+    },
+    {
+      "path": "content/mods/moreculling.json",
+      "sha1": "395a045a2bbd0b4b3fb4b78e16c54fe528d80202"
+    },
+    {
+      "path": "content/mods/mouse-tweaks.json",
+      "sha1": "402f87e061e4196df01977b6f1c600e4f78ba8ed"
+    },
+    {
+      "path": "content/mods/mru.json",
+      "sha1": "3f5e1f4170003f1f1ce3b0e6c20f441763654207"
+    },
+    {
+      "path": "content/mods/not-enough-animations.json",
+      "sha1": "7e56358dda63c608425a9cbf40fcdd9fa7c5cb53"
+    },
+    {
+      "path": "content/mods/oh-the-biomes-weve-gone.json",
+      "sha1": "fce217d9b6bf2a0b6c125808d0e4584c5e4da9ab"
+    },
+    {
+      "path": "content/mods/oh-the-trees-youll-grow.json",
+      "sha1": "8310a4676eb6169131347bfbaccc4e8d26256387"
+    },
+    {
+      "path": "content/mods/particle-rain.json",
+      "sha1": "b18dcada216e42d1d6161fec345dafe4590f05d8"
+    },
+    {
+      "path": "content/mods/pf-neoforge.json",
+      "sha1": "0171c2be6815812bb9fd5e879648ae1a35a68add"
+    },
+    {
+      "path": "content/mods/reeses-sodium-options.json",
+      "sha1": "80abd44dc0a4dcbc768273535f1ae7e3b80ab27a"
+    },
+    {
+      "path": "content/mods/reliable-name-tags.json",
+      "sha1": "55576c8a7cb9770f111b4da44d51f87c6e210955"
+    },
+    {
+      "path": "content/mods/resourceful-lib.json",
+      "sha1": "94cc7f8dd11d423b68712356525761f2c9674c11"
+    },
+    {
+      "path": "content/mods/rightclickharvest.json",
+      "sha1": "067aaf7e99271281e6c8c952d268c332e88ab296"
+    },
+    {
+      "path": "content/mods/sable.json",
+      "sha1": "0c6e270230eb0a76c6ad2cb85d6d7de39b610f77"
+    },
+    {
+      "path": "content/mods/sodium.json",
+      "sha1": "672b5a8c0aca08c4f31f59ade68007a2051d64c7"
+    },
+    {
+      "path": "content/mods/sophisticated-backpacks.json",
+      "sha1": "6f3f832c9474e09a0c20589aab34b19278959645"
+    },
+    {
+      "path": "content/mods/sophisticated-core.json",
+      "sha1": "518857fd475f5adcfda87d87e6114f0e773f4315"
+    },
+    {
+      "path": "content/mods/sound-physics-remastered.json",
+      "sha1": "9b4d828ba9d06350c07e49fa8cf18963ffff928a"
+    },
+    {
+      "path": "content/mods/splattermod.json",
+      "sha1": "242288a361b77cf4f2821b3ef60cc71da6e9c706"
+    },
+    {
+      "path": "content/mods/strut-your-stuff.json",
+      "sha1": "e139d0cae3eb6d43239437ae4465d2f952fa7be5"
+    },
+    {
+      "path": "content/mods/supplementaries.json",
+      "sha1": "d9ba63bba2f06f9bd6063d886a12c4a20e33e036"
+    },
+    {
+      "path": "content/mods/tectonic.json",
+      "sha1": "a0b9340166b62240b27bbd62bd6cc96742b74019"
+    },
+    {
+      "path": "content/mods/terrablender.json",
+      "sha1": "f131630373f75b61b51da72e84162bc23d64ac18"
+    },
+    {
+      "path": "content/mods/the-bumblezone.json",
+      "sha1": "4bbe49da9a5dd2ba2705f465e86a34bd99cb0ae1"
+    },
+    {
+      "path": "content/mods/travelersbackpack.json",
+      "sha1": "d19eccef4532c77bfccf41d8e780e6aa63355a7a"
+    },
+    {
+      "path": "content/mods/universal-sawmill.json",
+      "sha1": "65632e95b0c3ca91acb3bb681bd48f16d422ec3a"
+    },
+    {
+      "path": "content/mods/xaeros-minimap.json",
+      "sha1": "1b13e2f1961c715ee8498afa8bebe6319ea4cbef"
+    },
+    {
+      "path": "content/mods/xaeros-world-map.json",
+      "sha1": "603ecaa569cab21eba444970147177137de4ddcf"
+    },
+    {
+      "path": "overrides/icon.png",
+      "sha1": "9081fa8a0492c43c8e4da112e53af49c12ae7143"
+    }
+  ]
+}
